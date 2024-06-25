@@ -1,2 +1,4 @@
-# de-mo
-测试文件
+# Fiddler
+汉化文件
+FiddlerTexts.txt
+FdToChinese.dll
